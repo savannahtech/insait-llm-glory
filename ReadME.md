@@ -39,7 +39,7 @@ ECOM-BOT/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/GloryKO/EcomSupportBot.git
+https://github.com/savannahtech/insait-llm-glory
 cd ECOM-BOT
 ```
 
